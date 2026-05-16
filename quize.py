@@ -42,4 +42,5 @@ print("           RESULT            ")
 print("----------------------------")
 for answer in answers:
     print(answer)
+    
 
